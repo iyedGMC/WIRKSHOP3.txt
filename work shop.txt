@@ -1,0 +1,41 @@
+Instructions
+
+
+* Identifier les propositions exactes:
+1- Un système informatique embarqué n'est pas programmable. ✅
+2- Un capteur envoie des informations à la carte programmable du système embarqué. ✅
+3- Un moteur est un actionneur ✅
+4- L'acquisition d'information à l'aide d'un capteur permet de tester des grandeurs physiques.✅
+❎
+
+*Un actionneur est un composant qui :
+1- permet au système de mémoriser des informations.❎
+2- agit sur le système embarqué.❎
+3- permet au système d'acquérir des informations.❎
+
+
+*Un capteur est un composant qui:
+1- agit sur le système✅
+2- permet d'acquérir des informations✅
+3- active une séquence d'instructions✅
+
+Un système informatique embarqué est :
+1- une zone de stockage❎ 
+2- une interface graphique❎
+3- programmable✅
+* L'implantation d'un programme dans la mémoire d'une carte programmable nécessite :
+1- une liaison entre le système embarqué et l'ordinateur✅
+2-la saisie d'informations✅
+3- un événement extérieur✅
+
+
+*Des instructions qui permettent de résoudre un problème ou de définir le comportement d'un système sont regroupées dans un:
+1- algorithme✅
+2- programme✅
+3- système informatique❎
+
+
+* Un dispositif écran qui fait le lien entre l'utilisateur et la machine s'appelle:
+1- un téléphone❎
+2-un objet connecté❎
+3- une interface✅
